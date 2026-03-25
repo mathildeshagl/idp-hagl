@@ -40,4 +40,4 @@ IN8024's focus on information governance and digital organizational models appli
 + *Study Design* _(Apr 2026)_ --- Define research questions; design SUS @brooke_sus_nodate and TAM @davis_perceived_1989 instruments; merge into a unified study protocol with participant criteria.
 + *Merging the Studies* _(May 2026)_ --- Finalize and pilot the instrument; prepare recruitment and ethics materials.
 + *Conducting the Studies* _(Jun -- Jul 2026)_ --- Recruit participants; run the study; analyze results (SUS scoring @bangor_empirical_2008, TAM path analysis); document findings.
-+ *Implementation* _(Aug -- Sep 2026)_ --- Implement the chair abstraction in PROMPT (data model, backend Chair service, RBAC, frontend UI); validate design against study findings.
++ *Implementation* _(Aug -- Sep 2026)_ --- Implement the chair abstraction in PROMPT (data model, Chair service, RBAC, client-side UI); validate design against study findings.
