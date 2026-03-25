@@ -13,7 +13,7 @@
   submissionDate: datetime,
 ) = {
   // Quality checks
-  assert(degree in ("Bachelor", "Master"), message: "The degree must be either 'Bachelor' or 'Master'")
+  assert(degree in ("Bachelor", "Master", "Interdisciplinary Project"), message: "The degree must be either 'Bachelor', 'Master', or 'Interdisciplinary Project'.")
   
   set page(
     margin: (left: 20mm, right: 20mm, top: 30mm, bottom: 30mm),
@@ -42,7 +42,7 @@
   
   v(15mm)
 
-  align(center, text(font: fonts.sans, 1.3em, weight: 100, degree + "’s Thesis in " + program))
+  align(center, text(font: fonts.sans, 1.3em, weight: 100, degree + " in " + program))
   v(8mm)
   
 
