@@ -70,5 +70,5 @@
   body
 
   pagebreak()
-  bibliography("/thesis.yml")
+  bibliography("/thesis.bib")
 }
