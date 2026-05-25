@@ -1,6 +1,6 @@
 // Enter your thesis data here:
-#let titleEnglish = "Usability Evaluation and Chair Abstraction in PROMPT"
-#let titleGerman = "Usability-Evaluation und Lehrstuhl-Abstraktion in PROMPT"
+#let titleEnglish = "Usability Evaluation and Research Group Abstraction in PROMPT"
+#let titleGerman = "Usability-Evaluation und Forschungsgruppen-Abstraktion in PROMPT"
 #let degree = "Interdisciplinary Project"
 #let program = "Informatics"
 #let examiner = "Prof. Dr. Stephan Krusche"
