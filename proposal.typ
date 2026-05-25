@@ -27,7 +27,7 @@ This IDP addresses both gaps. A user study combines the System Usability Scale (
 
 The application field of this IDP is Economics. Both work streams are grounded at the intersection of Informatics and Economics, which constitutes the interdisciplinary character of this project.
 
-From an economics perspective, the user study draws on the Technology Acceptance Model (TAM) @davis_perceived_1989 — the dominant theory in management and economics research for explaining and predicting technology adoption — and the System Usability Scale (SUS) @bangor_empirical_2008, situating the evaluation firmly within the empirical tradition of business and management information systems research. The research group abstraction addresses a canonical organizational design problem studied in economics: how to structure ownership, delegation, and access control for shared digital resources across organizational units, mirroring questions of information governance and principal-agent relationships in institutional economics.
+From an economics perspective, the user study draws on the Technology Acceptance Model (TAM) @davis_perceived_1989, the dominant theory in management and economics research for explaining and predicting technology adoption, and the System Usability Scale (SUS) @bangor_empirical_2008, situating the evaluation firmly within the empirical tradition of business and management information systems research. The research group abstraction addresses a canonical organizational design problem studied in economics: how to structure ownership, delegation, and access control for shared digital resources across organizational units, mirroring questions of information governance and principal-agent relationships in institutional economics.
 
 From the Informatics side, the project realizes these organizational models as software artifacts. The interdisciplinary contribution lies in the feedback loop between both perspectives: empirical findings produced by economics-derived evaluation methods directly guide engineering decisions, and the implemented artifact in turn supports the organizational governance structures analyzed from an economics standpoint.
 
@@ -37,7 +37,7 @@ From the Informatics side, the project realizes these organizational models as s
 
 = Rationale for the Choice of Lecture
 
-IN8024's focus on information governance and digital organizational models applies directly to both work streams: the research group abstraction introduces an information governance layer into PROMPT, while the SUS/TAM study evaluates whether the system supports user needs — a core concern of information management. Together they produce an information-system artifact grounded in the lecture's principles of structuring and governing information in digital services.
+IN8024's focus on information governance and digital organizational models applies directly to both work streams: the research group abstraction introduces an information governance layer into PROMPT, while the SUS/TAM study evaluates whether the system supports user needs - a core concern of information management. Together they produce an information-system artifact grounded in the lecture's principles of structuring and governing information in digital services.
 
 = Milestones
 
